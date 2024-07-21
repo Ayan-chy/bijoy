@@ -1,0 +1,11 @@
+AskEcomPageActions\HPActions.class
+AskEcomUtility\AskEcomBase.class
+AskEcomPageLocators\HPLocators.class
+AskEcomUtility\AskEcomUtilization.class
+AskEcomStepDefinition\UserRegister.class
+AskEcomPageActions\ProfPActions.class
+AskEcomPageActions\APActions.class
+AskEcomTestRunner\AskEcomTestRunner.class
+AskEcomPageLocators\APLocators.class
+AskEcomPageLocators\ProfPLocators.class
+AskEcomStepDefinition\UserLogin.class
